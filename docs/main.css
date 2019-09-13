@@ -43,4 +43,11 @@ h3 {
 .wikidoc {
 	float:left;
 	width:700px;
+	margin-left:180px;
+}
+
+.fixed-nav {
+  position: fixed;
+  top:0;
+  z-index: 10;
 }
